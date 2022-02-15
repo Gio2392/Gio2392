@@ -3,7 +3,7 @@
 
 #### Revisa los proyectos que he realizado
 
-> ##### Landing pages
+> #### Landing pages
 
 - **Fylo dark theme landing page**
     - Aqui puedes ver el [repositorio](https://github.com/kautukkundan/Awesome-Profile-README-templates).
@@ -21,7 +21,7 @@
     - Aqui puedes ver el [repositorio](https://github.com/Gio2392/accessory-shop).
     - [Pagina web](https://gio2392.github.io/accessory-shop/) 🌎.
 
-##### Pequeñas apps y componentes
+> #### Pequeñas apps y componentes
 
 - **Pricing component with toggle**
     - Aqui puedes ver el [repositorio](https://github.com/Gio2392/pricing-component).

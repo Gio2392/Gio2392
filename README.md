@@ -4,6 +4,7 @@
 #### Revisa los proyectos que realicé
 - Fylo dark theme landing page
     - Aqui puedes ver el [repositorio](https://github.com/kautukkundan/Awesome-Profile-README-templates).
+    - [Pagina web](https://gio2392.github.io/fylo-landing-page/) 🌎
 
 <!--
 **Gio2392/Gio2392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

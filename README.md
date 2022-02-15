@@ -1,4 +1,5 @@
-<center>Hola! 👋 soy **Geovani Reyes**</center>
+##Hola! 👋 soy **Geovani Reyes**
+###Soy desarrollador de web
 
 <!--
 **Gio2392/Gio2392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

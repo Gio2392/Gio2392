@@ -1,5 +1,5 @@
  ## Hola! 👋 soy **Geovani Reyes** 
-### Soy desarrollador de web
+### Soy desarrollador Frontend
 
 #### Revisa los proyectos que he realizado
 
